@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Programs\\C#\\Projects\\CinemaApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\repositories\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F05D744E-6A5E-4827-B7BE-00FE22978B73}|CinemaApp.API\\CinemaApp.API.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05D744E-6A5E-4827-B7BE-00FE22978B73}|CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:cinemaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\cinemaapp.modules.films.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\cinemaapp.modules.films.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\Services\\MovieService.cs",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Services\\MovieService.cs",
+              "RelativeToolTip": "CinemaApp.Modules.Films\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T18:14:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\Models\\Movie.cs",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Models\\Movie.cs",
+              "RelativeToolTip": "CinemaApp.Modules.Films\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:09:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaApp.API\\Program.cs",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.API\\Program.cs",
+              "RelativeToolTip": "CinemaApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T14:00:23.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
               "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T14:11:31.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CinemaApp.Modules.Films",
-              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
-              "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
-              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
-              "RelativeToolTip": "CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T14:06:23.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.API\\Program.cs",
-              "RelativeDocumentMoniker": "CinemaApp.API\\Program.cs",
-              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.API\\Program.cs",
-              "RelativeToolTip": "CinemaApp.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "CinemaApp.Modules.Films\\Repositories\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T14:00:23.479Z",
+              "WhenOpened": "2026-02-14T15:49:30.724Z",
               "EditorCaption": ""
             }
           ]
