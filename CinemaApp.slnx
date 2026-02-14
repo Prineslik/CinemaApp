@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CinemaApp.API/CinemaApp.API.csproj" Id="f05d744e-6a5e-4827-b7be-00fe22978b73" />
+  <Project Path="CinemaApp.Infrastructure/CinemaApp.Infrastructure.csproj" Id="e5cab99d-8e0c-42ff-b33b-3b83737c9fbe" />
+  <Project Path="CinemaApp.Modules.Bookings/CinemaApp.Modules.Bookings.csproj" Id="35ebc500-a21a-42f0-8f36-20238b9587e4" />
+  <Project Path="CinemaApp.Modules.Core/CinemaApp.Modules.Core.csproj" Id="b934a045-45da-4f9a-917c-2dc2749b12c7" />
+  <Project Path="CinemaApp.Modules.Films/CinemaApp.Modules.Films.csproj" Id="540d0849-05d9-4de3-a9c4-2dad843bd93d" />
+</Solution>

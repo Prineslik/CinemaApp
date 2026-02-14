@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programs\\C#\\Projects\\CinemaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D744E-6A5E-4827-B7BE-00FE22978B73}|CinemaApp.API\\CinemaApp.API.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D744E-6A5E-4827-B7BE-00FE22978B73}|CinemaApp.API\\CinemaApp.API.csproj|solutionrelative:cinemaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|d:\\programs\\c#\\projects\\cinemaapp\\cinemaapp.modules.films\\cinemaapp.modules.films.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{540D0849-05D9-4DE3-A9C4-2DAD843BD93D}|CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj|solutionrelative:cinemaapp.modules.films\\cinemaapp.modules.films.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CinemaApp.Modules.Films\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T14:11:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinemaApp.Modules.Films",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
+              "RelativeDocumentMoniker": "CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
+              "RelativeToolTip": "CinemaApp.Modules.Films\\CinemaApp.Modules.Films.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T14:06:23.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaApp.API\\Program.cs",
+              "ToolTip": "D:\\Programs\\C#\\Projects\\CinemaApp\\CinemaApp.API\\Program.cs",
+              "RelativeToolTip": "CinemaApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T14:00:23.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
